@@ -1,7 +1,20 @@
 ---
-title: "my-first-website"
+title: "蒙红帆的个人主页"
+author: 蒙红帆
+date: 2026-03-13
+format: html
 ---
 
-This is a Quarto website.
+# 蒙红帆的个人主页
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 🌟 欢迎来到我的主页
+
+---
+
+## 📚 个人信息
+- 学号: 2025303120141
+- 姓名: 蒙红帆
+- 专业: 资源咯有与植物保护
+- 研究方向: 水热炭
+
+---
